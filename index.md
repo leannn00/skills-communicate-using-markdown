@@ -7,7 +7,9 @@
 
 
 
-
+``` javascript
+var myVar = "Hello, world!";
+```
 
 
 
@@ -27,4 +29,5 @@
 
 
 i just have created a h1 header 
+
 
